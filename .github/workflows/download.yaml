@@ -1,4 +1,4 @@
-name: Download script
+name: Download scripthight-cvertificate-of-the-hight-security
 on:
   push:
     paths:
